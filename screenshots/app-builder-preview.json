@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "NNX .root | nclodev",
+      "hasCanvas": false,
+      "bodyTextLen": 4064,
+      "bodyTextHash": "91f3b585406349a25034593f99ca3bbf12128cb3d8a36b933092b1c1a16f2e2f",
+      "bodyTextPrefix": "_n.clo NCLODEV .ROOT KATEGORI TEMA STUDIO JURNAL 11:22:35 WITA B",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "NNX .root | nclodev",
+      "hasCanvas": false,
+      "bodyTextLen": 3827,
+      "bodyTextHash": "08efe51d0cc574df0224d3cefd86f56b0af1f217ed2b2d9d224a50e979aadbb6",
+      "bodyTextPrefix": "_n.clo Buat Situs NNX .ROOT () Sistem dulu. Halaman belakangan. ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

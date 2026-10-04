@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8080/kategori",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Kategori · nclodev",
+      "hasCanvas": false,
+      "bodyTextLen": 2088,
+      "bodyTextHash": "193d0f90fae238ad1dc91cfed2e3efc0b0416904e45f02ca2040a5767e5e4d0e",
+      "bodyTextPrefix": "_n.clo NCLODEV .ROOT KATEGORI TEMA STUDIO JURNAL --:--:-- WITA B",
+      "horizontalOverflow": false,
+      "consoleErrors": [
+        "A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:\n\n- A server/client branch `if (typeof window !== 'undefined')`.\n- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.\n- Date formatting in a user's locale which doesn't match the server.\n- External changing data without sending a snapshot of it along with the HTML.\n- Invalid HTML tag nesting.\n\nIt can also happen if the client has a browser extension installed which messes with the HTML before React loaded.\n\n%s%s https://react.dev/link/hydration-mismatch \n\n  ...\n    <CatchBoundary getResetKey={function getResetKey} errorComponent={function AppErrorComponent} ...>\n      <MatchInnerImpl match={{id:\"/kateg...\", ...}}>\n        <Lazy>\n          <SplitComponent>\n            <OutletImpl>\n              <MatchImpl routeId=\"/kategori/\">\n                <MatchView router={{...}} match={{id:\"/kateg...\", ...}}>\n                  <CatchBoundary getResetKey={function getResetKey} errorComponent={function AppErrorComponent} ...>\n                    <MatchInnerImpl match={{id:\"/kateg...\", ...}}>\n                      <Lazy>\n                        <KategoriPage>\n                          <main className=\"mx-auto ma...\">\n                            <p>\n                            <h1>\n                            <p>\n                            <div className=\"mt-8 flex ...\">\n                              <div>\n                              <Input value=\"\" onChange={function onChange} placeholder=\"Cari indus...\" ...>\n                                <input\n                                  className=\"h-11 w-full rounded-[var(--radius-sm)] border border-border bg-muted px-3...\"\n                                  value=\"\"\n                                  onChange={function onChange}\n                                  placeholder=\"Cari industri atau tema\"\n                                  aria-label=\"Cari koleksi\"\n-                                 style={{caret-color:\"transparent\"}}\n                                >\n                            ...\n"
+      ],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/kategori.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Kategori · nclodev",
+      "hasCanvas": false,
+      "bodyTextLen": 1882,
+      "bodyTextHash": "ae0d7a7e89dc8f6edddb5f9d79055a236ce3201620915024858fcd2d357df7ee",
+      "bodyTextPrefix": "_n.clo Buat Situs 26 SISTEM Kategori Bahasa visual per industri.",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/kategori-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/kategori.json"
+}

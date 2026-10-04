@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/kategori/d",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "DEPTH · nclodev",
+      "hasCanvas": false,
+      "bodyTextLen": 1366,
+      "bodyTextHash": "4b35476f0e27de54ec6a6c8e9062e937dd5ef71f6c2645e7b93549872e39357a",
+      "bodyTextPrefix": "_n.clo NCLODEV .ROOT KATEGORI TEMA STUDIO JURNAL 11:22:32 WITA B",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/depth.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "DEPTH · nclodev",
+      "hasCanvas": false,
+      "bodyTextLen": 1308,
+      "bodyTextHash": "576e1380e077a3e85b692c391b9b54c5bc71126a491a05f4caabc2d8237c58f2",
+      "bodyTextPrefix": "_n.clo Buat Situs D SERIES · DIGITAL AGENCY DEPTH Multi-dimensio",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/depth-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/depth.json"
+}

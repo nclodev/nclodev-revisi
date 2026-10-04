@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/create",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Buat Situs · nclodev",
+      "hasCanvas": false,
+      "bodyTextLen": 4130,
+      "bodyTextHash": "806a04e2248beff874b5d4168ffe3c2695b9d94a9f6d5b34f901b2659636ec2f",
+      "bodyTextPrefix": "_n.clo NCLODEV .ROOT KATEGORI TEMA STUDIO JURNAL 11:22:29 WITA B",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/create.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Buat Situs · nclodev",
+      "hasCanvas": false,
+      "bodyTextLen": 4072,
+      "bodyTextHash": "029fe83bd83dc52e7321097221832144e29a57de933b66f9dc91908f49de59d2",
+      "bodyTextPrefix": "_n.clo Buat Situs .ANALYSIS · BUAT SITUS Website yang benar-bena",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/create-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/create.json"
+}

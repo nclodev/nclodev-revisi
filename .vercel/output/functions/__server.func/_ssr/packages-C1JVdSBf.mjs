@@ -1,0 +1,50 @@
+//#region node_modules/.nitro/vite/services/ssr/assets/packages-C1JVdSBf.js
+var PACKAGES = [
+	{
+		id: "concept",
+		name: "CONCEPT",
+		kicker: "Satu produk, satu halaman yang bekerja",
+		fit: "Promosi, event, atau validasi tawaran. Tidak perlu CMS.",
+		pages: "1–2 halaman",
+		includes: [
+			"Landing dengan form dan CTA",
+			"Desain Figma mobile + desktop",
+			"Animasi dasar dan SEO teknis",
+			"Staging + deployment produksi"
+		],
+		revisions: "2× desain · 1× development",
+		support: "7 hari pasca-launch"
+	},
+	{
+		id: "architecture",
+		name: "ARCHITECTURE",
+		kicker: "Profil bisnis yang bisa tumbuh",
+		fit: "Company profile, portofolio kreator, institusi. Blog dan CMS opsional.",
+		pages: "5–10 halaman",
+		includes: [
+			"Situs multi-halaman + navigasi",
+			"Design system (token, tipe, spacing)",
+			"Integrasi standar (form, analitik, WA)",
+			"Blog opsional / Sanity sebagai add-on"
+		],
+		revisions: "3× desain · 2× development",
+		support: "14 hari pasca-launch"
+	},
+	{
+		id: "realization",
+		name: "REALIZATION",
+		kicker: "Produk yang punya logika",
+		fit: "Toko custom, web app, dashboard, peran pengguna.",
+		pages: "Aplikasi · database",
+		includes: [
+			"Auth, peran, dan admin",
+			"Payment Indonesia (Midtrans / Xendit) bila toko",
+			"QA lintas browser dan perangkat",
+			"Laporan performa sebelum serah terima"
+		],
+		revisions: "5× desain · 3× development",
+		support: "30 hari pasca-launch"
+	}
+];
+//#endregion
+export { PACKAGES as t };
